@@ -8,5 +8,5 @@ Usage: Convert any HTML doc file to PDF with ease.
 - Download all [dependencies](https://github.com/sparkcoder157/HTML2PDF#dependencies)
 - Run "npm install -g pdfcrowd"
 - Change the html page on line 8
-- Change the file name you want to save as after processing
+- Change the file name on line 9
 - Run the file as " node HTML2PDF.js"
